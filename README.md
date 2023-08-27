@@ -22,5 +22,17 @@ https://carla-ng-vue-tic-tac-toe.netlify.app/
 
 <br/>
 
+## Project setup
+```
+npm install
+```
+
+### Compiles for development
+```
+npm run dev
+```
+
+<br/>
+
 ## :clap: Acknowledgments
 * Project idea by [Tyler Potts](https://tylerpotts.co.uk/)
